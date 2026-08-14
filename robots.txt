@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zz497n.plcwin.xyz/sitemap.xml
